@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ttallhah
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on app development 
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me miantalhafazal@gmail.com 
 
 <!---
