@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttallhah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently working on laravel
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me miantalhafazal@gmail.com 
 
